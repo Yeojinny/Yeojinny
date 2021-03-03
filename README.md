@@ -1,16 +1,25 @@
-### Hi there 👋
+![header](https://capsule-render.vercel.app/api?type=wave&color=E3A6AE&height=300&section=header&text=Yeojinny&fontSize=90)
 
-<!--
-**Yeojinny/Yeojinny** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Contact
+* Email : pdg03092@naver.com
+* Gitgub :github.com/Yeojinny
 
-Here are some ideas to get you started:
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## ✏️Education 
+
+- 삼성여자고등학교 졸업(2012.03~2015.02)
+- 부경대학교 국제통상학부 졸업(2015.03~2019.08)
+- 부산대학교 블록체인 개발자 양성과정 훈련중(2020.10~)
+
+## 🔨Tech
+programming languages
+- c/c++
+- Python
+- Java
+- Mysql
+
+Tools
+- visual studio / code
+- Ubuntu
+- intellij IDEA
+- node.js
