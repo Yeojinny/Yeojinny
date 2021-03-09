@@ -19,13 +19,15 @@ programming languages
   링크드리스트, 큐, 스택 등을 직접 구현해보며 자료구조를 이해하였으며
   미로찾기, n-queen과 같은 알고리즘 문제를 풀어보며 해당 언어의 특성과 문법을 익혔습니다.
 - Python
+
+  기초 문법을 익혔습니다.
 - Java
   
-  heap sort, merge sort를 자바를 통해 구현해보며 알고리즘을 익혔으며
+  heap sort, merge sort를 자바를 통해 구현해보며 알고리즘을 익혔습니다.
   collections 프레임워크과 stream api를 활용하여 간단한 로또 프로그램을 구현해보았습니다.
-- Mysql
+  람다식을 구현할 수 있으며, 파일을 읽고 쓰며 컬렉션에 저장하여 처리할 수 있습니다.
+  jdbc를 이용해서 mysql과 연동하여 CRUD가 가능합니다.
   
-  query문 작성을 통해 테이블 생성 및 조회, 수정을 할 수 있습니다.
   
 Tools
 - visual studio / code
