@@ -1,9 +1,8 @@
 ![header](https://capsule-render.vercel.app/api?type=wave&color=E3A6AE&height=300&section=header&text=Yeojinny&fontSize=90)
 
 Contact
-* Email : pdg03092@naver.com
+* Email : pdg03092@gmail.com
 * Gitgub : github.com/Yeojinny
-* Repl : repl.it/@Yeojinny
 
 
 ## ✏️Education 
